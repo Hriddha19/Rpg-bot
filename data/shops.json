@@ -1,0 +1,22 @@
+[
+  {
+    "AREA_NUMBER": 1,
+    "ITEM_LIST": [
+      "Rusty Sword",
+      "Broken Dagger",
+      "Old Staff",
+      "Novice Armor",
+      "Bronze Helmet",
+      "Magic Hoodie",
+      "Bronze Bracelet"
+    ]
+  },
+  {
+    "AREA_NUMBER": 2,
+    "ITEM_LIST": [
+      "Executioner's Axe",
+      "Priest Scepter",
+      "Hunter's Armor"
+    ]
+  }
+]
